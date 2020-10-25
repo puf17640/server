@@ -1,0 +1,15 @@
+{
+  "name": "xposed-server",
+  "version": "1.0.0",
+  "description": "xposed server ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "puf17640",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "3.7.0",
+    "socket.io": "2.3.0"
+  }
+}
