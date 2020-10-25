@@ -1,7 +1,7 @@
 {
   "name": "xposed-server",
   "version": "1.0.0",
-  "description": "xposed server ",
+  "description": "xposed server",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
